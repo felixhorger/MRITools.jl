@@ -1,0 +1,4 @@
+name = "MRITools"
+uuid = "c7f79e5c-1e0e-4c79-bbe3-0d8e8f0794e1"
+authors = ["Felix Horger <felix.horger@kcl.ac.uk>"]
+version = "0.1.0"
