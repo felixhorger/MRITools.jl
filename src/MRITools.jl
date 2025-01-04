@@ -2,10 +2,27 @@
 module MRITools
 
 	using Statistics
+	import PyPlot
+
+
+	function plot_3dtrajectory()
+	end
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	"""
-		See WIP 23.02.22
-
+		TODO: what exactly is this for?
 		voltage[time, channel, pulse]
 		returns in units of [unit of α] / ([unit of voltage] sampling time of voltage)
 	"""
